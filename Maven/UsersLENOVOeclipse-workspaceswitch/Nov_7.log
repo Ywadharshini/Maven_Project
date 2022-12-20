@@ -1,0 +1,6 @@
+2022-11-07 17:04:06 INFO  Adactin_With_BaseClass:23 - ---------> info
+2022-11-07 17:05:44 INFO  Adactin_With_BaseClass:23 - ---------> info
+2022-11-07 17:09:17 INFO  Adactin_With_BaseClass:23 - ---------> info
+2022-11-07 17:12:15 INFO  Adactin_With_BaseClass:23 - ---------> info
+2022-11-07 17:12:15 WARN  Adactin_With_BaseClass:24 - ---------> warn
+2022-11-07 17:12:15 ERROR Adactin_With_BaseClass:25 - ---------> error
